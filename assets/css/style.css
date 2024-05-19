@@ -1400,7 +1400,7 @@ only screen and (min-width: 768px) and (max-width: 991px) {
     margin: 0;
     padding: 0;
     padding-right: 25px;
-    right: 80px;
+    right: 100px;
     float: none;
     -webkit-transform: translate(-50%, -50%);
     -moz-transform: translate(-50%, -50%);
